@@ -1,0 +1,15 @@
+N:\VS_Code_projects\C#\DZ2\dz_15\bin\Debug\net6.0\dz_15.exe
+N:\VS_Code_projects\C#\DZ2\dz_15\bin\Debug\net6.0\dz_15.deps.json
+N:\VS_Code_projects\C#\DZ2\dz_15\bin\Debug\net6.0\dz_15.runtimeconfig.json
+N:\VS_Code_projects\C#\DZ2\dz_15\bin\Debug\net6.0\dz_15.dll
+N:\VS_Code_projects\C#\DZ2\dz_15\bin\Debug\net6.0\dz_15.pdb
+N:\VS_Code_projects\C#\DZ2\dz_15\obj\Debug\net6.0\dz_15.csproj.AssemblyReference.cache
+N:\VS_Code_projects\C#\DZ2\dz_15\obj\Debug\net6.0\dz_15.GeneratedMSBuildEditorConfig.editorconfig
+N:\VS_Code_projects\C#\DZ2\dz_15\obj\Debug\net6.0\dz_15.AssemblyInfoInputs.cache
+N:\VS_Code_projects\C#\DZ2\dz_15\obj\Debug\net6.0\dz_15.AssemblyInfo.cs
+N:\VS_Code_projects\C#\DZ2\dz_15\obj\Debug\net6.0\dz_15.csproj.CoreCompileInputs.cache
+N:\VS_Code_projects\C#\DZ2\dz_15\obj\Debug\net6.0\dz_15.dll
+N:\VS_Code_projects\C#\DZ2\dz_15\obj\Debug\net6.0\refint\dz_15.dll
+N:\VS_Code_projects\C#\DZ2\dz_15\obj\Debug\net6.0\dz_15.pdb
+N:\VS_Code_projects\C#\DZ2\dz_15\obj\Debug\net6.0\dz_15.genruntimeconfig.cache
+N:\VS_Code_projects\C#\DZ2\dz_15\obj\Debug\net6.0\ref\dz_15.dll

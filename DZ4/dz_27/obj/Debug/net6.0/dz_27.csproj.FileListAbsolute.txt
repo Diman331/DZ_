@@ -1,0 +1,15 @@
+N:\VS_Code_projects\C#\DZ4\dz_27\bin\Debug\net6.0\dz_27.exe
+N:\VS_Code_projects\C#\DZ4\dz_27\bin\Debug\net6.0\dz_27.deps.json
+N:\VS_Code_projects\C#\DZ4\dz_27\bin\Debug\net6.0\dz_27.runtimeconfig.json
+N:\VS_Code_projects\C#\DZ4\dz_27\bin\Debug\net6.0\dz_27.dll
+N:\VS_Code_projects\C#\DZ4\dz_27\bin\Debug\net6.0\dz_27.pdb
+N:\VS_Code_projects\C#\DZ4\dz_27\obj\Debug\net6.0\dz_27.csproj.AssemblyReference.cache
+N:\VS_Code_projects\C#\DZ4\dz_27\obj\Debug\net6.0\dz_27.GeneratedMSBuildEditorConfig.editorconfig
+N:\VS_Code_projects\C#\DZ4\dz_27\obj\Debug\net6.0\dz_27.AssemblyInfoInputs.cache
+N:\VS_Code_projects\C#\DZ4\dz_27\obj\Debug\net6.0\dz_27.AssemblyInfo.cs
+N:\VS_Code_projects\C#\DZ4\dz_27\obj\Debug\net6.0\dz_27.csproj.CoreCompileInputs.cache
+N:\VS_Code_projects\C#\DZ4\dz_27\obj\Debug\net6.0\dz_27.dll
+N:\VS_Code_projects\C#\DZ4\dz_27\obj\Debug\net6.0\refint\dz_27.dll
+N:\VS_Code_projects\C#\DZ4\dz_27\obj\Debug\net6.0\dz_27.pdb
+N:\VS_Code_projects\C#\DZ4\dz_27\obj\Debug\net6.0\dz_27.genruntimeconfig.cache
+N:\VS_Code_projects\C#\DZ4\dz_27\obj\Debug\net6.0\ref\dz_27.dll

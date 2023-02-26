@@ -1,0 +1,15 @@
+N:\VS_Code_projects\C#\DZ3\dz_19\bin\Debug\net6.0\dz_19.exe
+N:\VS_Code_projects\C#\DZ3\dz_19\bin\Debug\net6.0\dz_19.deps.json
+N:\VS_Code_projects\C#\DZ3\dz_19\bin\Debug\net6.0\dz_19.runtimeconfig.json
+N:\VS_Code_projects\C#\DZ3\dz_19\bin\Debug\net6.0\dz_19.dll
+N:\VS_Code_projects\C#\DZ3\dz_19\bin\Debug\net6.0\dz_19.pdb
+N:\VS_Code_projects\C#\DZ3\dz_19\obj\Debug\net6.0\dz_19.csproj.AssemblyReference.cache
+N:\VS_Code_projects\C#\DZ3\dz_19\obj\Debug\net6.0\dz_19.GeneratedMSBuildEditorConfig.editorconfig
+N:\VS_Code_projects\C#\DZ3\dz_19\obj\Debug\net6.0\dz_19.AssemblyInfoInputs.cache
+N:\VS_Code_projects\C#\DZ3\dz_19\obj\Debug\net6.0\dz_19.AssemblyInfo.cs
+N:\VS_Code_projects\C#\DZ3\dz_19\obj\Debug\net6.0\dz_19.csproj.CoreCompileInputs.cache
+N:\VS_Code_projects\C#\DZ3\dz_19\obj\Debug\net6.0\dz_19.dll
+N:\VS_Code_projects\C#\DZ3\dz_19\obj\Debug\net6.0\refint\dz_19.dll
+N:\VS_Code_projects\C#\DZ3\dz_19\obj\Debug\net6.0\dz_19.pdb
+N:\VS_Code_projects\C#\DZ3\dz_19\obj\Debug\net6.0\dz_19.genruntimeconfig.cache
+N:\VS_Code_projects\C#\DZ3\dz_19\obj\Debug\net6.0\ref\dz_19.dll

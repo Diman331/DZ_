@@ -1,0 +1,15 @@
+N:\Git\dotnet3\dz\bin\Debug\net6.0\dz.exe
+N:\Git\dotnet3\dz\bin\Debug\net6.0\dz.deps.json
+N:\Git\dotnet3\dz\bin\Debug\net6.0\dz.runtimeconfig.json
+N:\Git\dotnet3\dz\bin\Debug\net6.0\dz.dll
+N:\Git\dotnet3\dz\bin\Debug\net6.0\dz.pdb
+N:\Git\dotnet3\dz\obj\Debug\net6.0\dz.csproj.AssemblyReference.cache
+N:\Git\dotnet3\dz\obj\Debug\net6.0\dz.GeneratedMSBuildEditorConfig.editorconfig
+N:\Git\dotnet3\dz\obj\Debug\net6.0\dz.AssemblyInfoInputs.cache
+N:\Git\dotnet3\dz\obj\Debug\net6.0\dz.AssemblyInfo.cs
+N:\Git\dotnet3\dz\obj\Debug\net6.0\dz.csproj.CoreCompileInputs.cache
+N:\Git\dotnet3\dz\obj\Debug\net6.0\dz.dll
+N:\Git\dotnet3\dz\obj\Debug\net6.0\refint\dz.dll
+N:\Git\dotnet3\dz\obj\Debug\net6.0\dz.pdb
+N:\Git\dotnet3\dz\obj\Debug\net6.0\dz.genruntimeconfig.cache
+N:\Git\dotnet3\dz\obj\Debug\net6.0\ref\dz.dll
